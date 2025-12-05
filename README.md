@@ -12,8 +12,8 @@ The analysis revealed that **"Champions"** make up only **12%** of the customer 
 
 ### 📊 Dashboard Strategy
 
-![Strategy Dashboard](Screenshots/dashboard_treemap.png)
-*(Note: Rename your screenshot to match this)*
+[View strategy dashboard](https://github.com/zestcoderg/Ecommerce-Customer-Segmentation/blob/main/Strategy%20Dashboard.png)
+
 
 ---
 
@@ -40,7 +40,7 @@ The Marketing Director needed to move away from mass-email blasts to targeted ca
 The visualization highlights that revenue is heavily skewed. The "Pareto Principle" is visible, where a small "Champion" block drives outsized value compared to the large "Hibernating" block.
 
 **2. Dynamic Insight Generator:**
-![Smart Narrative](Screenshots/smart_narrative.png)
+
 *A custom DAX measure that automatically generates a strategic sentence based on the selected segment, calculating their exact Revenue Share vs. Population Share.*
 
 **3. Product Affinity:**
